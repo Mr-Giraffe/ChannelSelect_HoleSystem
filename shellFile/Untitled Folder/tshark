@@ -1,0 +1,12 @@
+#!/bin/sh
+#echo "0913" | sudo airmon-ng start wlan0
+#echo "0913" | sudo -S tshark -i mon0 -Tfields -e frame.time_relative -e frame.len -e radiotap.datarate -e radiotap.dbm_antsignal -Eseparator=# >test.txt -a duration:10&
+#echo "0913" | sudo -S tshark -i mon0 -o wlan.enable_decryption:TRUE -o wlan.wep_key1:wpa-psk:whosyourdaddy -Tfields -e frame.time_relative -e frame.len -e ip.src -e ip.dst -e eth.src -e eth.dst -Eseparator=# >11.txt -a duration:10
+#echo "0913" | sudo -S tshark -i mon0 -o wlan.enable_decryption:TRUE -o wlan.wep_key1:wpa-psk:buyaoluanlian -Tfields -e ip.src -e ip.dst -Eseparator=# >11.txt -a duration:10
+#echo "0913" | sudo airmon-ng start wlan0
+dat=`date "+%Y-%m-%d %H:%M:%S:%N"`
+echo $dat
+echo "0913" | sudo -S tshark -i mon0 -Tfields -e frame.number -e frame.time -e frame.time_relative -e frame.len -e radiotap.datarate -e radiotap.dbm_antsignal -e wlan.sa -Eseparator=# >packets -a duration:3000&
+datee=`date "+%Y-%m-%d %H:%M:%S:%N"`
+echo $datee
+

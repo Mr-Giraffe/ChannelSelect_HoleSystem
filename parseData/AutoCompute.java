@@ -1,0 +1,14 @@
+import java.io.IOException;
+
+
+public class AutoCompute {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		HandleRawData hrd = new HandleRawData(12);
+		String rawdataFilePath = "/home/beacon/ChannelSelect_wholeSystem/data/e"+args[0]+"/";
+		String radioMapFilePath = "radiomap.txt";
+		hrd.mainProgress(rawdataFilePath, radioMapFilePath);
+	}
+
+}

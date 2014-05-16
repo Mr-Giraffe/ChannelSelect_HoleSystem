@@ -1,0 +1,17 @@
+#!/bin/bash
+cd ../ChannelSelect_wholeSystem/sink
+j=5
+while [ $j -lt 6 ]; do
+	#java Initial 0
+	#sleep 20
+	#java Start 0
+	#sleep 2
+	i=1
+	while [ $i -lt 16 ]; do
+		java DataCollection $i $j 0
+		sleep 3
+		((i++))
+	done
+	((j++))
+	sleep 20
+done

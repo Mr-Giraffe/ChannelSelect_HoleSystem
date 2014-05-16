@@ -1,0 +1,17 @@
+#!/bin/bash
+cd sink
+java Initial 0
+sleep 30
+java Start 0
+sleep 7
+java DataCollection 3 5 0
+sleep 1
+java DataCollection 6 5 0
+sleep 1
+java DataCollection 9 5 0
+sleep 1
+java DataCollection 12 5 0
+sleep 1
+java DataCollection 15 5 0
+sleep 1
+java DataCollection 18 5 0

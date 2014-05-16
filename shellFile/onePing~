@@ -1,0 +1,10 @@
+#!/bin/bash
+j=1
+while [ $j -lt 10000 ]; do
+	dat=`date "+%Y-%m-%d %H:%M:%S:%N"`
+	echo $dat >>pingResult.txt
+	echo "0913" | sudo ping -s 1000 -c 1000 -W 1 -q -f >>pingResult.txt 10.42.0.1
+	echo "%%" >>pingResult.txt
+	((j++))
+	sleep 5
+done

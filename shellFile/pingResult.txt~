@@ -1,0 +1,1386 @@
+%%
+2013-11-02 16:44:03:761606454
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 779 received, 22% packet loss, time 55293ms
+rtt min/avg/max/mdev = 30.958/275.853/4203.438/304.060 ms, pipe 150, ipg/ewma 55.348/144.816 ms
+%%
+2013-11-02 16:45:12:479930093
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 112 received, 88% packet loss, time 30279ms
+rtt min/avg/max/mdev = 42.215/825.883/4405.316/1219.903 ms, pipe 202, ipg/ewma 30.309/3229.203 ms
+%%
+2013-11-02 16:45:56:587778727
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 816 received, 18% packet loss, time 72471ms
+rtt min/avg/max/mdev = 14.183/288.853/3032.761/319.625 ms, pipe 97, ipg/ewma 72.544/624.853 ms
+%%
+2013-11-02 16:47:20:139458313
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 135 received, 86% packet loss, time 21434ms
+rtt min/avg/max/mdev = 34.573/834.893/8683.606/1362.130 ms, pipe 604, ipg/ewma 21.455/117.421 ms
+%%
+2013-11-02 16:48:03:958906799
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 28 received, 97% packet loss, time 27293ms
+rtt min/avg/max/mdev = 494.408/2317.807/4015.565/891.197 ms, pipe 226, ipg/ewma 27.320/2711.957 ms
+%%
+2013-11-02 16:48:44:299895417
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 785 received, 21% packet loss, time 48096ms
+rtt min/avg/max/mdev = 52.727/928.662/3440.881/764.646 ms, pipe 109, ipg/ewma 48.144/509.547 ms
+%%
+2013-11-02 16:49:44:294572824
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 925 received, 7% packet loss, time 31908ms
+rtt min/avg/max/mdev = 6.249/120.986/3998.355/267.459 ms, pipe 74, ipg/ewma 31.940/1391.464 ms
+%%
+2013-11-02 16:50:23:903477132
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 12 received, 98% packet loss, time 16910ms
+rtt min/avg/max/mdev = 2068.923/5225.362/9765.891/2831.418 ms, pipe 683, ipg/ewma 16.927/5683.439 ms
+%%
+2013-11-02 16:51:05:372698747
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 844 received, 15% packet loss, time 57170ms
+rtt min/avg/max/mdev = 27.521/429.549/2652.927/351.907 ms, pipe 99, ipg/ewma 57.227/371.445 ms
+%%
+2013-11-02 16:52:12:866655339
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 785 received, 21% packet loss, time 45424ms
+rtt min/avg/max/mdev = 6.557/388.571/6065.810/526.218 ms, pipe 207, ipg/ewma 45.470/2477.451 ms
+%%
+2013-11-02 16:53:07:269440094
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 168 received, 83% packet loss, time 31121ms
+rtt min/avg/max/mdev = 6.399/616.577/5522.703/1094.808 ms, pipe 270, ipg/ewma 31.153/51.245 ms
+%%
+2013-11-02 16:53:54:454145621
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 598 received, 40% packet loss, time 51366ms
+rtt min/avg/max/mdev = 16.468/598.106/6463.074/583.016 ms, pipe 245, ipg/ewma 51.417/528.616 ms
+%%
+2013-11-02 16:55:03:762980015
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 493 received, 50% packet loss, time 38072ms
+rtt min/avg/max/mdev = 24.968/334.543/8455.939/683.270 ms, pipe 508, ipg/ewma 38.110/3063.681 ms
+%%
+2013-11-02 16:55:49:823092201
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 17 received, 98% packet loss, time 19196ms
+rtt min/avg/max/mdev = 1079.038/3861.628/7714.161/2030.474 ms, pipe 299, ipg/ewma 19.215/4363.497 ms
+%%
+2013-11-02 16:56:23:786194557
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 836 received, 16% packet loss, time 51745ms
+rtt min/avg/max/mdev = 31.401/564.137/3766.744/626.465 ms, pipe 99, ipg/ewma 51.797/3221.047 ms
+%%
+2013-11-02 16:57:27:021731381
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 210 received, 79% packet loss, time 45285ms
+rtt min/avg/max/mdev = 467.340/3288.034/10187.761/1497.296 ms, pipe 382, ipg/ewma 45.330/4389.430 ms
+%%
+2013-11-02 16:58:28:961344981
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 730 received, 27% packet loss, time 46545ms
+rtt min/avg/max/mdev = 6.530/338.575/4786.514/400.824 ms, pipe 273, ipg/ewma 46.592/279.857 ms
+%%
+2013-11-02 16:59:30:097534707
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 333 received, 66% packet loss, time 26673ms
+rtt min/avg/max/mdev = 6.579/285.020/7473.719/978.815 ms, pipe 421, ipg/ewma 26.700/4429.515 ms
+%%
+2013-11-02 17:00:16:736201096
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 798 received, 20% packet loss, time 52511ms
+rtt min/avg/max/mdev = 6.473/302.206/3262.152/399.596 ms, pipe 98, ipg/ewma 52.563/1613.088 ms
+%%
+2013-11-02 17:01:20:789165827
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 741 received, 25% packet loss, time 49696ms
+rtt min/avg/max/mdev = 6.172/276.667/2943.924/331.617 ms, pipe 114, ipg/ewma 49.746/555.645 ms
+%%
+2013-11-02 17:02:21:390976360
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 590 received, 41% packet loss, time 34184ms
+rtt min/avg/max/mdev = 6.245/179.986/6866.562/574.629 ms, pipe 213, ipg/ewma 34.218/3537.240 ms
+%%
+2013-11-02 17:03:09:590317708
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 869 received, 13% packet loss, time 54492ms
+rtt min/avg/max/mdev = 6.446/202.856/3350.194/254.833 ms, pipe 75, ipg/ewma 54.547/264.311 ms
+%%
+2013-11-02 17:04:15:798006044
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 18 received, 98% packet loss, time 19672ms
+rtt min/avg/max/mdev = 1715.159/3399.953/5637.635/1238.890 ms, pipe 368, ipg/ewma 19.692/3511.329 ms
+%%
+2013-11-02 17:04:51:763953647
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 932 received, 6% packet loss, time 42447ms
+rtt min/avg/max/mdev = 9.407/280.422/2152.033/354.931 ms, pipe 67, ipg/ewma 42.489/66.055 ms
+%%
+2013-11-02 17:05:43:532759405
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 515 received, 48% packet loss, time 36882ms
+rtt min/avg/max/mdev = 6.722/1021.340/5013.824/1000.609 ms, pipe 233, ipg/ewma 36.919/1526.282 ms
+%%
+2013-11-02 17:06:35:460303134
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 567 received, 43% packet loss, time 37151ms
+rtt min/avg/max/mdev = 24.642/307.562/5046.044/429.107 ms, pipe 318, ipg/ewma 37.188/364.639 ms
+%%
+2013-11-02 17:07:27:720778097
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 187 received, 81% packet loss, time 33971ms
+rtt min/avg/max/mdev = 11.903/584.082/10811.954/1396.656 ms, pipe 547, ipg/ewma 34.005/3846.284 ms
+%%
+2013-11-02 17:08:14:185553102
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 825 received, 17% packet loss, time 64097ms
+rtt min/avg/max/mdev = 6.245/249.114/3286.866/337.410 ms, pipe 72, ipg/ewma 64.162/36.992 ms
+%%
+2013-11-02 17:09:29:874316608
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 242 received, 75% packet loss, time 34513ms
+rtt min/avg/max/mdev = 6.561/424.132/4926.458/948.343 ms, pipe 211, ipg/ewma 34.547/130.109 ms
+%%
+2013-11-02 17:10:19:257651966
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 583 received, 41% packet loss, time 44353ms
+rtt min/avg/max/mdev = 6.274/251.813/6567.998/547.230 ms, pipe 175, ipg/ewma 44.398/2420.211 ms
+%%
+2013-11-02 17:11:15:669551472
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 521 received, 47% packet loss, time 52372ms
+rtt min/avg/max/mdev = 21.257/304.779/4431.094/492.424 ms, pipe 251, ipg/ewma 52.424/222.189 ms
+%%
+2013-11-02 17:12:21:921223762
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 41 received, 95% packet loss, time 17226ms
+rtt min/avg/max/mdev = 49.221/1286.942/7806.879/2275.542 ms, pipe 525, ipg/ewma 17.243/4125.241 ms
+%%
+2013-11-02 17:12:54:194483314
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 631 received, 36% packet loss, time 60813ms
+rtt min/avg/max/mdev = 8.176/315.712/4356.231/452.498 ms, pipe 124, ipg/ewma 60.874/1639.903 ms
+%%
+2013-11-02 17:14:06:680049663
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 269 received, 73% packet loss, time 28751ms
+rtt min/avg/max/mdev = 5.750/355.734/5269.663/801.576 ms, pipe 336, ipg/ewma 28.780/1443.775 ms
+%%
+2013-11-02 17:14:50:988034214
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 437 received, 56% packet loss, time 35327ms
+rtt min/avg/max/mdev = 22.624/255.536/5262.973/604.241 ms, pipe 294, ipg/ewma 35.362/2864.735 ms
+%%
+2013-11-02 17:15:41:858669794
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 239 received, 76% packet loss, time 35224ms
+rtt min/avg/max/mdev = 41.612/441.188/9409.483/937.011 ms, pipe 548, ipg/ewma 35.259/486.980 ms
+%%
+2013-11-02 17:16:40:919636581
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 502 received, 49% packet loss, time 41955ms
+rtt min/avg/max/mdev = 12.682/314.745/4835.325/548.624 ms, pipe 216, ipg/ewma 41.997/2914.063 ms
+%%
+2013-11-02 17:17:37:563642952
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 764 received, 23% packet loss, time 47243ms
+rtt min/avg/max/mdev = 8.773/346.626/4007.486/379.788 ms, pipe 155, ipg/ewma 47.290/297.075 ms
+%%
+2013-11-02 17:18:37:839744815
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 181 received, 81% packet loss, time 28267ms
+rtt min/avg/max/mdev = 13.985/525.009/6765.050/1256.608 ms, pipe 367, ipg/ewma 28.296/4276.110 ms
+%%
+2013-11-02 17:19:22:558484392
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 829 received, 17% packet loss, time 57202ms
+rtt min/avg/max/mdev = 22.147/833.564/3776.169/909.187 ms, pipe 113, ipg/ewma 57.259/701.555 ms
+%%
+2013-11-02 17:20:32:329095851
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 433 received, 56% packet loss, time 33614ms
+rtt min/avg/max/mdev = 12.407/829.219/6904.551/723.574 ms, pipe 450, ipg/ewma 33.647/2610.339 ms
+%%
+2013-11-02 17:21:24:769724479
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 659 received, 34% packet loss, time 55173ms
+rtt min/avg/max/mdev = 19.342/525.159/4301.641/693.554 ms, pipe 149, ipg/ewma 55.228/2463.802 ms
+%%
+2013-11-02 17:22:33:564239282
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 18 received, 98% packet loss, time 20211ms
+rtt min/avg/max/mdev = 2376.194/3701.152/4708.569/645.167 ms, pipe 257, ipg/ewma 20.231/3637.955 ms
+%%
+2013-11-02 17:23:08:209681903
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 766 received, 23% packet loss, time 55249ms
+rtt min/avg/max/mdev = 6.447/247.652/4737.653/416.348 ms, pipe 143, ipg/ewma 55.305/2507.177 ms
+%%
+2013-11-02 17:24:17:325468541
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 530 received, 47% packet loss, time 47349ms
+rtt min/avg/max/mdev = 37.584/481.859/3998.685/474.103 ms, pipe 201, ipg/ewma 47.397/591.707 ms
+%%
+2013-11-02 17:25:17:690060462
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 491 received, 50% packet loss, time 43469ms
+rtt min/avg/max/mdev = 14.030/369.535/12260.426/1013.367 ms, pipe 268, ipg/ewma 43.512/4456.585 ms
+%%
+2013-11-02 17:26:17:514600768
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 755 received, 24% packet loss, time 42720ms
+rtt min/avg/max/mdev = 16.051/480.970/4970.861/754.279 ms, pipe 212, ipg/ewma 42.763/2922.596 ms
+%%
+2013-11-02 17:27:15:194305671
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 829 received, 17% packet loss, time 56065ms
+rtt min/avg/max/mdev = 9.158/1070.926/4927.219/1278.682 ms, pipe 77, ipg/ewma 56.121/3298.666 ms
+%%
+2013-11-02 17:28:25:707436596
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 755 received, 24% packet loss, time 51476ms
+rtt min/avg/max/mdev = 16.836/320.682/3687.575/372.438 ms, pipe 151, ipg/ewma 51.527/572.595 ms
+%%
+2013-11-02 17:29:29:576062531
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 9 received, 99% packet loss, time 17003ms
+rtt min/avg/max/mdev = 3205.071/4153.794/4894.236/674.440 ms, pipe 293, ipg/ewma 17.020/4003.962 ms
+%%
+2013-11-02 17:30:01:385327106
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 810 received, 19% packet loss, time 63085ms
+rtt min/avg/max/mdev = 7.882/580.546/2679.792/585.273 ms, pipe 85, ipg/ewma 63.148/2231.575 ms
+%%
+2013-11-02 17:31:14:784188772
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 850 received, 15% packet loss, time 55495ms
+rtt min/avg/max/mdev = 6.278/410.046/3304.023/584.224 ms, pipe 77, ipg/ewma 55.550/947.144 ms
+%%
+2013-11-02 17:32:21:904644338
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 406 received, 59% packet loss, time 38206ms
+rtt min/avg/max/mdev = 23.042/327.360/4252.354/623.018 ms, pipe 159, ipg/ewma 38.245/2601.525 ms
+%%
+2013-11-02 17:33:13:633395844
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 851 received, 14% packet loss, time 43422ms
+rtt min/avg/max/mdev = 12.749/683.755/2598.170/671.786 ms, pipe 116, ipg/ewma 43.465/177.444 ms
+%%
+2013-11-02 17:34:07:269061668
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 738 received, 26% packet loss, time 50566ms
+rtt min/avg/max/mdev = 9.951/259.659/6829.092/509.441 ms, pipe 156, ipg/ewma 50.617/3410.478 ms
+%%
+2013-11-02 17:35:13:385070756
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 842 received, 15% packet loss, time 49450ms
+rtt min/avg/max/mdev = 6.251/259.493/3137.155/276.506 ms, pipe 106, ipg/ewma 49.499/864.959 ms
+%%
+2013-11-02 17:36:11:677219997
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 260 received, 74% packet loss, time 26418ms
+rtt min/avg/max/mdev = 17.989/374.140/7687.498/1066.835 ms, pipe 255, ipg/ewma 26.444/4346.061 ms
+%%
+2013-11-02 17:36:52:261185067
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 834 received, 16% packet loss, time 43683ms
+rtt min/avg/max/mdev = 63.321/928.178/4647.541/665.193 ms, pipe 89, ipg/ewma 43.726/1368.495 ms
+%%
+2013-11-02 17:37:47:911497845
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 801 received, 19% packet loss, time 48615ms
+rtt min/avg/max/mdev = 133.335/1572.837/4981.344/825.860 ms, pipe 135, ipg/ewma 48.664/2162.689 ms
+%%
+2013-11-02 17:38:51:102679478
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 503 received, 49% packet loss, time 58052ms
+rtt min/avg/max/mdev = 6.507/1407.486/4564.638/1217.086 ms, pipe 155, ipg/ewma 58.110/1066.576 ms
+%%
+2013-11-02 17:40:03:302017004
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 433 received, 56% packet loss, time 38649ms
+rtt min/avg/max/mdev = 94.746/1308.007/4464.106/736.594 ms, pipe 192, ipg/ewma 38.688/2131.446 ms
+%%
+2013-11-02 17:40:55:896941652
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 586 received, 41% packet loss, time 40170ms
+rtt min/avg/max/mdev = 5.300/1524.970/5019.781/1661.654 ms, pipe 203, ipg/ewma 40.210/4324.136 ms
+%%
+2013-11-02 17:41:51:124065183
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 798 received, 20% packet loss, time 42091ms
+rtt min/avg/max/mdev = 106.670/2011.200/4503.147/946.755 ms, pipe 112, ipg/ewma 42.133/1879.985 ms
+%%
+2013-11-02 17:42:47:239041597
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 602 received, 39% packet loss, time 43048ms
+rtt min/avg/max/mdev = 279.594/2559.987/4604.763/996.192 ms, pipe 122, ipg/ewma 43.091/395.935 ms
+%%
+2013-11-02 17:43:44:514605419
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 562 received, 43% packet loss, time 46592ms
+rtt min/avg/max/mdev = 51.595/2371.518/4785.010/1279.911 ms, pipe 113, ipg/ewma 46.639/3091.494 ms
+%%
+2013-11-02 17:44:45:694715143
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 596 received, 40% packet loss, time 39840ms
+rtt min/avg/max/mdev = 5.505/314.439/5964.687/552.932 ms, pipe 168, ipg/ewma 39.880/2624.407 ms
+%%
+2013-11-02 17:45:39:778261513
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 107 received, 89% packet loss, time 19952ms
+rtt min/avg/max/mdev = 34.029/648.541/9040.703/1572.092 ms, pipe 652, ipg/ewma 19.972/491.501 ms
+%%
+2013-11-02 17:46:22:830172088
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 837 received, 16% packet loss, time 58102ms
+rtt min/avg/max/mdev = 71.058/886.735/3222.883/582.646 ms, pipe 93, ipg/ewma 58.160/672.411 ms
+%%
+2013-11-02 17:47:32:394440224
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 588 received, 41% packet loss, time 38416ms
+rtt min/avg/max/mdev = 10.052/2489.256/5226.710/954.918 ms, pipe 138, ipg/ewma 38.455/653.273 ms
+%%
+2013-11-02 17:48:26:282201148
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 454 received, 54% packet loss, time 35125ms
+rtt min/avg/max/mdev = 802.031/2986.600/5496.237/996.915 ms, pipe 135, ipg/ewma 35.160/2327.047 ms
+%%
+2013-11-02 17:49:17:417201453
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 437 received, 56% packet loss, time 44350ms
+rtt min/avg/max/mdev = 26.999/2393.889/6095.297/1764.761 ms, pipe 145, ipg/ewma 44.394/933.863 ms
+%%
+2013-11-02 17:50:18:975542463
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 97 received, 90% packet loss, time 25679ms
+rtt min/avg/max/mdev = 672.287/1713.522/12420.809/2146.261 ms, pipe 324, ipg/ewma 25.705/4993.214 ms
+%%
+2013-11-02 17:51:00:787551792
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 711 received, 28% packet loss, time 45131ms
+rtt min/avg/max/mdev = 8.673/2051.459/5507.744/1425.017 ms, pipe 118, ipg/ewma 45.177/1718.667 ms
+%%
+2013-11-02 17:52:01:952192190
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 735 received, 26% packet loss, time 41915ms
+rtt min/avg/max/mdev = 5.815/1833.970/4669.701/1176.905 ms, pipe 82, ipg/ewma 41.957/1652.785 ms
+%%
+2013-11-02 17:52:58:224030588
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 829 received, 17% packet loss, time 23095ms
+rtt min/avg/max/mdev = 5.372/615.604/3983.495/1032.411 ms, pipe 120, ipg/ewma 23.118/744.951 ms
+%%
+2013-11-02 17:53:34:303917944
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 636 received, 36% packet loss, time 37134ms
+rtt min/avg/max/mdev = 275.063/2199.708/5106.541/932.213 ms, pipe 126, ipg/ewma 37.172/2057.933 ms
+%%
+2013-11-02 17:54:26:669918596
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 354 received, 64% packet loss, time 30089ms
+rtt min/avg/max/mdev = 6.747/501.390/5174.122/708.948 ms, pipe 236, ipg/ewma 30.119/3149.736 ms
+%%
+2013-11-02 17:55:12:124999168
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 820 received, 18% packet loss, time 46822ms
+rtt min/avg/max/mdev = 32.517/797.627/4329.061/603.909 ms, pipe 148, ipg/ewma 46.869/253.917 ms
+%%
+2013-11-02 17:56:12:623130846
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 381 received, 61% packet loss, time 40728ms
+rtt min/avg/max/mdev = 22.995/424.579/5150.382/613.403 ms, pipe 319, ipg/ewma 40.769/2922.880 ms
+%%
+2013-11-02 17:57:04:621550036
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 483 received, 51% packet loss, time 29545ms
+rtt min/avg/max/mdev = 6.663/258.028/4964.961/536.808 ms, pipe 303, ipg/ewma 29.575/1222.761 ms
+%%
+2013-11-02 17:57:49:114572735
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 447 received, 55% packet loss, time 48229ms
+rtt min/avg/max/mdev = 19.454/567.378/12370.257/1160.731 ms, pipe 385, ipg/ewma 48.278/5854.717 ms
+%%
+2013-11-02 17:58:57:581655464
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 551 received, 44% packet loss, time 34225ms
+rtt min/avg/max/mdev = 5.508/1215.452/5086.537/1386.148 ms, pipe 156, ipg/ewma 34.259/2133.562 ms
+%%
+2013-11-02 17:59:46:997858872
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 299 received, 70% packet loss, time 49138ms
+rtt min/avg/max/mdev = 28.074/575.410/5074.541/818.149 ms, pipe 239, ipg/ewma 49.187/2285.020 ms
+%%
+2013-11-02 18:00:51:298679385
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 100 received, 90% packet loss, time 14684ms
+rtt min/avg/max/mdev = 6.012/447.407/10434.392/1816.000 ms, pipe 761, ipg/ewma 14.699/32.261 ms
+%%
+2013-11-02 18:01:31:869471173
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 894 received, 10% packet loss, time 53118ms
+rtt min/avg/max/mdev = 6.593/264.575/3536.981/286.094 ms, pipe 100, ipg/ewma 53.172/314.176 ms
+%%
+2013-11-02 18:02:37:078664927
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 120 received, 88% packet loss, time 32944ms
+rtt min/avg/max/mdev = 9.132/905.864/5769.378/1418.572 ms, pipe 329, ipg/ewma 32.977/470.545 ms
+%%
+2013-11-02 18:03:26:579607737
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 837 received, 16% packet loss, time 53836ms
+rtt min/avg/max/mdev = 10.400/376.694/4565.924/482.392 ms, pipe 133, ipg/ewma 53.890/179.780 ms
+%%
+2013-11-02 18:04:34:564877955
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 651 received, 34% packet loss, time 50882ms
+rtt min/avg/max/mdev = 44.238/2478.454/5424.014/1493.395 ms, pipe 119, ipg/ewma 50.933/3609.662 ms
+%%
+2013-11-02 18:05:41:312655037
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 723 received, 27% packet loss, time 49226ms
+rtt min/avg/max/mdev = 355.096/2138.218/4499.265/812.411 ms, pipe 94, ipg/ewma 49.276/2846.306 ms
+%%
+2013-11-02 18:06:44:555268372
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 699 received, 30% packet loss, time 40516ms
+rtt min/avg/max/mdev = 9.846/1672.793/6812.678/1543.679 ms, pipe 120, ipg/ewma 40.556/1568.660 ms
+%%
+2013-11-02 18:07:43:714081133
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 769 received, 23% packet loss, time 58933ms
+rtt min/avg/max/mdev = 61.792/1648.536/5845.628/1354.142 ms, pipe 77, ipg/ewma 58.992/1572.817 ms
+%%
+2013-11-02 18:08:59:352904396
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 21 received, 97% packet loss, time 20946ms
+rtt min/avg/max/mdev = 1021.073/3503.716/7218.271/2142.104 ms, pipe 400, ipg/ewma 20.967/4136.759 ms
+%%
+2013-11-02 18:09:39:753335436
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 666 received, 33% packet loss, time 55861ms
+rtt min/avg/max/mdev = 81.057/2085.377/6885.744/1595.511 ms, pipe 169, ipg/ewma 55.917/836.515 ms
+%%
+2013-11-02 18:10:54:400989142
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 650 received, 35% packet loss, time 51710ms
+rtt min/avg/max/mdev = 176.114/1787.612/5319.325/1107.015 ms, pipe 89, ipg/ewma 51.762/555.394 ms
+%%
+2013-11-02 18:12:01:767430083
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 653 received, 34% packet loss, time 58787ms
+rtt min/avg/max/mdev = 92.913/2060.375/4317.565/1084.112 ms, pipe 86, ipg/ewma 58.846/876.549 ms
+%%
+2013-11-02 18:13:14:208213010
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 557 received, 44% packet loss, time 41471ms
+rtt min/avg/max/mdev = 38.404/1135.470/6161.884/1128.196 ms, pipe 307, ipg/ewma 41.512/1343.347 ms
+%%
+2013-11-02 18:14:13:020166635
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 5 received, 99% packet loss, time 14427ms
+rtt min/avg/max/mdev = 6832.056/8004.644/8796.401/938.402 ms, pipe 617, ipg/ewma 14.441/8295.895 ms
+%%
+2013-11-02 18:14:50:057412762
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 622 received, 37% packet loss, time 48127ms
+rtt min/avg/max/mdev = 25.256/1718.725/5170.765/1153.153 ms, pipe 182, ipg/ewma 48.175/3209.754 ms
+%%
+2013-11-02 18:15:53:542215462
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 411 received, 58% packet loss, time 30405ms
+rtt min/avg/max/mdev = 6.313/488.831/7662.108/693.575 ms, pipe 386, ipg/ewma 30.435/3178.246 ms
+%%
+2013-11-02 18:16:38:296999376
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 225 received, 77% packet loss, time 30814ms
+rtt min/avg/max/mdev = 416.020/2523.360/6529.206/831.127 ms, pipe 385, ipg/ewma 30.845/1862.818 ms
+%%
+2013-11-02 18:17:27:187223612
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 544 received, 45% packet loss, time 66941ms
+rtt min/avg/max/mdev = 9.806/442.370/4170.883/539.691 ms, pipe 140, ipg/ewma 67.008/202.005 ms
+%%
+2013-11-02 18:18:47:486734410
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 116 received, 88% packet loss, time 33352ms
+rtt min/avg/max/mdev = 35.954/1129.011/12643.444/2147.612 ms, pipe 280, ipg/ewma 33.386/6245.284 ms
+%%
+2013-11-02 18:19:38:673825077
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 728 received, 27% packet loss, time 59977ms
+rtt min/avg/max/mdev = 7.155/720.063/3377.589/626.529 ms, pipe 89, ipg/ewma 60.037/261.335 ms
+%%
+2013-11-02 18:20:50:420756810
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 925 received, 7% packet loss, time 40974ms
+rtt min/avg/max/mdev = 5.305/624.570/2872.842/877.768 ms, pipe 102, ipg/ewma 41.015/1108.683 ms
+%%
+2013-11-02 18:21:42:158325185
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 23 received, 97% packet loss, time 22100ms
+rtt min/avg/max/mdev = 1273.268/3568.296/8263.736/2111.158 ms, pipe 469, ipg/ewma 22.122/2811.875 ms
+%%
+2013-11-02 18:22:25:804057732
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 677 received, 32% packet loss, time 52064ms
+rtt min/avg/max/mdev = 44.319/1265.893/10936.926/1262.878 ms, pipe 112, ipg/ewma 52.116/1734.722 ms
+%%
+2013-11-02 18:23:33:158880965
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 177 received, 82% packet loss, time 27488ms
+rtt min/avg/max/mdev = 28.189/1010.095/9432.640/1308.007 ms, pipe 550, ipg/ewma 27.515/3923.057 ms
+%%
+2013-11-02 18:24:12:800284923
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 9 received, 99% packet loss, time 15600ms
+rtt min/avg/max/mdev = 5895.994/9139.090/12406.643/2648.782 ms, pipe 617, ipg/ewma 15.615/9471.803 ms
+%%
+2013-11-02 18:24:51:838281190
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 527 received, 47% packet loss, time 46122ms
+rtt min/avg/max/mdev = 12.160/982.424/5518.955/1060.210 ms, pipe 216, ipg/ewma 46.168/765.860 ms
+%%
+2013-11-02 18:25:54:014608593
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 289 received, 71% packet loss, time 41256ms
+rtt min/avg/max/mdev = 5.693/1254.234/7212.132/1233.952 ms, pipe 263, ipg/ewma 41.298/3972.962 ms
+%%
+2013-11-02 18:26:52:856862474
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 284 received, 71% packet loss, time 34026ms
+rtt min/avg/max/mdev = 15.908/398.312/7229.587/811.969 ms, pipe 378, ipg/ewma 34.060/1814.929 ms
+%%
+2013-11-02 18:27:39:123965132
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 692 received, 30% packet loss, time 50890ms
+rtt min/avg/max/mdev = 14.713/1613.303/4244.516/843.845 ms, pipe 107, ipg/ewma 50.941/2640.365 ms
+%%
+2013-11-02 18:28:43:522372956
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 706 received, 29% packet loss, time 49232ms
+rtt min/avg/max/mdev = 7.663/640.801/3641.661/684.947 ms, pipe 167, ipg/ewma 49.282/1415.015 ms
+%%
+2013-11-02 18:29:44:601095181
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 819 received, 18% packet loss, time 48870ms
+rtt min/avg/max/mdev = 18.642/425.616/4686.571/519.551 ms, pipe 118, ipg/ewma 48.919/2294.052 ms
+%%
+2013-11-02 18:30:44:500526810
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 18 received, 98% packet loss, time 19994ms
+rtt min/avg/max/mdev = 2317.567/3601.103/4883.689/794.969 ms, pipe 277, ipg/ewma 20.014/3477.258 ms
+%%
+2013-11-02 18:31:19:280149610
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 670 received, 33% packet loss, time 55068ms
+rtt min/avg/max/mdev = 23.320/785.342/3896.137/891.789 ms, pipe 112, ipg/ewma 55.123/3555.388 ms
+%%
+2013-11-02 18:32:25:402706152
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 520 received, 48% packet loss, time 56864ms
+rtt min/avg/max/mdev = 26.975/1323.512/4917.597/1156.896 ms, pipe 147, ipg/ewma 56.921/408.717 ms
+%%
+2013-11-02 18:33:37:120132924
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 590 received, 41% packet loss, time 42031ms
+rtt min/avg/max/mdev = 10.651/1654.649/5729.182/1578.881 ms, pipe 167, ipg/ewma 42.073/3629.561 ms
+%%
+2013-11-02 18:34:35:627471101
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 193 received, 80% packet loss, time 22103ms
+rtt min/avg/max/mdev = 542.178/1473.853/5587.178/1020.180 ms, pipe 289, ipg/ewma 22.126/2659.881 ms
+%%
+2013-11-02 18:35:13:923332533
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 955 received, 4% packet loss, time 63007ms
+rtt min/avg/max/mdev = 6.433/643.084/2425.681/543.641 ms, pipe 33, ipg/ewma 63.070/119.322 ms
+%%
+2013-11-02 18:36:26:796880891
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 798 received, 20% packet loss, time 64266ms
+rtt min/avg/max/mdev = 11.953/896.974/6736.060/964.865 ms, pipe 93, ipg/ewma 64.330/4588.041 ms
+%%
+2013-11-02 18:37:49:552755733
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 830 received, 17% packet loss, time 23450ms
+rtt min/avg/max/mdev = 5.300/428.276/4671.335/916.720 ms, pipe 128, ipg/ewma 23.474/3339.508 ms
+%%
+2013-11-02 18:38:25:562263487
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 433 received, 56% packet loss, time 34133ms
+rtt min/avg/max/mdev = 11.258/1217.220/8581.202/1292.216 ms, pipe 413, ipg/ewma 34.167/480.994 ms
+%%
+2013-11-02 18:39:21:875416471
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 17 received, 98% packet loss, time 19299ms
+rtt min/avg/max/mdev = 1063.491/4227.073/6695.768/2100.881 ms, pipe 413, ipg/ewma 19.319/4820.552 ms
+%%
+2013-11-02 18:39:58:593465242
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 874 received, 12% packet loss, time 55237ms
+rtt min/avg/max/mdev = 6.347/1428.526/4662.246/1056.427 ms, pipe 69, ipg/ewma 55.293/2198.942 ms
+%%
+2013-11-02 18:41:08:173110997
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 671 received, 32% packet loss, time 46780ms
+rtt min/avg/max/mdev = 5.848/1397.848/4870.780/1305.939 ms, pipe 143, ipg/ewma 46.827/3173.353 ms
+%%
+2013-11-02 18:42:09:712695656
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 836 received, 16% packet loss, time 60324ms
+rtt min/avg/max/mdev = 5.469/354.909/3643.736/370.949 ms, pipe 88, ipg/ewma 60.385/44.261 ms
+%%
+2013-11-02 18:43:22:339023413
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 636 received, 36% packet loss, time 56224ms
+rtt min/avg/max/mdev = 57.563/2853.218/7171.477/1298.270 ms, pipe 151, ipg/ewma 56.280/1601.362 ms
+%%
+2013-11-02 18:44:37:923653323
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 765 received, 23% packet loss, time 36263ms
+rtt min/avg/max/mdev = 101.342/2057.417/4293.255/1046.170 ms, pipe 135, ipg/ewma 36.300/232.676 ms
+%%
+2013-11-02 18:45:27:791132363
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 92 received, 90% packet loss, time 28181ms
+rtt min/avg/max/mdev = 164.525/1391.705/7477.770/1764.769 ms, pipe 304, ipg/ewma 28.209/4383.115 ms
+%%
+2013-11-02 18:46:14:366511393
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 548 received, 45% packet loss, time 44868ms
+rtt min/avg/max/mdev = 14.963/1917.183/5252.258/1413.551 ms, pipe 185, ipg/ewma 44.913/4717.972 ms
+%%
+2013-11-02 18:47:14:757266262
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 709 received, 29% packet loss, time 48034ms
+rtt min/avg/max/mdev = 5.364/604.777/3998.634/671.678 ms, pipe 88, ipg/ewma 48.082/2596.652 ms
+%%
+2013-11-02 18:48:15:805957031
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 731 received, 26% packet loss, time 42345ms
+rtt min/avg/max/mdev = 36.469/1122.765/4864.038/947.885 ms, pipe 116, ipg/ewma 42.387/2020.157 ms
+%%
+2013-11-02 18:49:12:896686764
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 524 received, 47% packet loss, time 50370ms
+rtt min/avg/max/mdev = 7.158/915.669/10104.773/1205.422 ms, pipe 227, ipg/ewma 50.420/3766.047 ms
+%%
+2013-11-02 18:50:21:065822127
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 994 received, 0% packet loss, time 53856ms
+rtt min/avg/max/mdev = 6.848/329.525/1622.860/261.298 ms, pipe 25, ipg/ewma 53.910/365.231 ms
+%%
+2013-11-02 18:51:23:185072966
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 457 received, 54% packet loss, time 37498ms
+rtt min/avg/max/mdev = 6.952/282.280/4494.209/621.892 ms, pipe 221, ipg/ewma 37.535/3356.620 ms
+%%
+2013-11-02 18:52:14:450329644
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 853 received, 14% packet loss, time 47421ms
+rtt min/avg/max/mdev = 18.328/397.250/3088.065/326.080 ms, pipe 146, ipg/ewma 47.468/375.749 ms
+%%
+2013-11-02 18:53:13:064798101
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 688 received, 31% packet loss, time 44954ms
+rtt min/avg/max/mdev = 6.525/274.668/6289.072/526.212 ms, pipe 205, ipg/ewma 44.999/2825.840 ms
+%%
+2013-11-02 18:54:11:286692180
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 238 received, 76% packet loss, time 34072ms
+rtt min/avg/max/mdev = 54.133/937.186/5491.546/923.139 ms, pipe 274, ipg/ewma 34.106/422.260 ms
+%%
+2013-11-02 18:55:01:359719308
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 821 received, 17% packet loss, time 55979ms
+rtt min/avg/max/mdev = 8.270/1094.551/3972.867/1163.047 ms, pipe 86, ipg/ewma 56.035/3598.888 ms
+%%
+2013-11-02 18:56:10:302372410
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 575 received, 42% packet loss, time 41833ms
+rtt min/avg/max/mdev = 32.730/748.787/3810.783/656.027 ms, pipe 181, ipg/ewma 41.874/576.261 ms
+%%
+2013-11-02 18:57:04:774197972
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 866 received, 13% packet loss, time 44145ms
+rtt min/avg/max/mdev = 16.886/422.909/3844.243/426.954 ms, pipe 121, ipg/ewma 44.189/142.538 ms
+%%
+2013-11-02 18:58:01:625256657
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 369 received, 63% packet loss, time 43022ms
+rtt min/avg/max/mdev = 109.135/1967.934/6108.438/1096.491 ms, pipe 284, ipg/ewma 43.065/3661.058 ms
+%%
+2013-11-02 18:59:00:182593654
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 815 received, 18% packet loss, time 55836ms
+rtt min/avg/max/mdev = 14.284/583.235/3441.774/601.941 ms, pipe 80, ipg/ewma 55.891/123.164 ms
+%%
+2013-11-02 19:00:07:919298218
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 245 received, 75% packet loss, time 40119ms
+rtt min/avg/max/mdev = 13.106/839.204/5897.690/906.282 ms, pipe 177, ipg/ewma 40.159/839.444 ms
+%%
+2013-11-02 19:01:04:852196789
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 743 received, 25% packet loss, time 41579ms
+rtt min/avg/max/mdev = 6.242/1641.303/4568.095/1108.332 ms, pipe 142, ipg/ewma 41.620/1542.716 ms
+%%
+2013-11-02 19:02:00:584853888
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 764 received, 23% packet loss, time 46158ms
+rtt min/avg/max/mdev = 18.326/785.169/4362.989/791.120 ms, pipe 98, ipg/ewma 46.204/2243.832 ms
+%%
+2013-11-02 19:03:00:184262700
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 165 received, 83% packet loss, time 32710ms
+rtt min/avg/max/mdev = 47.795/655.902/8150.556/1192.132 ms, pipe 578, ipg/ewma 32.743/951.849 ms
+%%
+2013-11-02 19:03:54:213707401
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 272 received, 72% packet loss, time 35137ms
+rtt min/avg/max/mdev = 48.300/1092.142/5888.381/1039.272 ms, pipe 256, ipg/ewma 35.172/3531.096 ms
+%%
+2013-11-02 19:04:44:349714508
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 922 received, 7% packet loss, time 57470ms
+rtt min/avg/max/mdev = 8.732/545.645/2511.403/389.526 ms, pipe 58, ipg/ewma 57.528/363.312 ms
+%%
+2013-11-02 19:05:51:860334474
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 526 received, 47% packet loss, time 43175ms
+rtt min/avg/max/mdev = 10.422/510.585/4025.364/550.868 ms, pipe 163, ipg/ewma 43.218/1663.627 ms
+%%
+2013-11-02 19:06:48:103391103
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 352 received, 64% packet loss, time 41424ms
+rtt min/avg/max/mdev = 26.068/442.263/3783.220/594.313 ms, pipe 198, ipg/ewma 41.465/334.316 ms
+%%
+2013-11-02 19:07:42:111197604
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 508 received, 49% packet loss, time 36816ms
+rtt min/avg/max/mdev = 5.578/298.319/6001.376/575.881 ms, pipe 369, ipg/ewma 36.853/2412.618 ms
+%%
+2013-11-02 19:08:35:947753797
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 847 received, 15% packet loss, time 56139ms
+rtt min/avg/max/mdev = 11.121/313.830/3105.850/304.898 ms, pipe 148, ipg/ewma 56.195/1103.519 ms
+%%
+2013-11-02 19:09:39:795189900
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 60 received, 94% packet loss, time 21087ms
+rtt min/avg/max/mdev = 17.125/1297.290/10108.392/2639.333 ms, pipe 720, ipg/ewma 21.108/5370.977 ms
+%%
+2013-11-02 19:10:26:125385956
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 823 received, 17% packet loss, time 53166ms
+rtt min/avg/max/mdev = 7.648/277.728/4655.511/309.214 ms, pipe 167, ipg/ewma 53.219/255.700 ms
+%%
+2013-11-02 19:11:33:619674708
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 302 received, 69% packet loss, time 33079ms
+rtt min/avg/max/mdev = 11.181/433.008/7223.314/872.321 ms, pipe 484, ipg/ewma 33.112/2536.629 ms
+%%
+2013-11-02 19:12:26:163357392
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 140 received, 86% packet loss, time 34660ms
+rtt min/avg/max/mdev = 76.289/1108.903/6929.404/1265.789 ms, pipe 301, ipg/ewma 34.694/211.350 ms
+%%
+2013-11-02 19:13:19:699681679
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 768 received, 23% packet loss, time 41311ms
+rtt min/avg/max/mdev = 6.558/824.621/5825.176/1156.203 ms, pipe 102, ipg/ewma 41.352/2038.431 ms
+%%
+2013-11-02 19:14:16:664172636
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 12 received, 98% packet loss, time 16942ms
+rtt min/avg/max/mdev = 2140.862/4789.169/7579.125/1926.625 ms, pipe 512, ipg/ewma 16.959/4441.716 ms
+%%
+2013-11-02 19:14:53:782960841
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 604 received, 39% packet loss, time 55548ms
+rtt min/avg/max/mdev = 28.367/727.098/4130.596/652.687 ms, pipe 226, ipg/ewma 55.603/571.904 ms
+%%
+2013-11-02 19:16:02:610051418
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 238 received, 76% packet loss, time 35373ms
+rtt min/avg/max/mdev = 6.960/488.730/7352.901/1229.273 ms, pipe 284, ipg/ewma 35.408/4668.601 ms
+%%
+2013-11-02 19:16:56:394377294
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 561 received, 43% packet loss, time 48793ms
+rtt min/avg/max/mdev = 206.991/2510.103/7089.074/1459.940 ms, pipe 135, ipg/ewma 48.841/3258.593 ms
+%%
+2013-11-02 19:18:04:383118588
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 29 received, 97% packet loss, time 18512ms
+rtt min/avg/max/mdev = 210.040/2555.364/13349.402/3848.327 ms, pipe 713, ipg/ewma 18.530/5605.849 ms
+%%
+2013-11-02 19:18:37:421461105
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 958 received, 4% packet loss, time 51697ms
+rtt min/avg/max/mdev = 10.083/957.523/3570.988/836.533 ms, pipe 60, ipg/ewma 51.749/962.865 ms
+%%
+2013-11-02 19:19:41:278702446
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 905 received, 9% packet loss, time 48556ms
+rtt min/avg/max/mdev = 6.269/660.451/3389.731/767.325 ms, pipe 39, ipg/ewma 48.605/1166.146 ms
+%%
+2013-11-02 19:20:41:631993677
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 236 received, 76% packet loss, time 49311ms
+rtt min/avg/max/mdev = 248.011/1291.343/5417.148/880.969 ms, pipe 228, ipg/ewma 49.360/1989.635 ms
+%%
+2013-11-02 19:21:46:795060672
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 824 received, 17% packet loss, time 60868ms
+rtt min/avg/max/mdev = 8.140/403.485/3006.344/380.662 ms, pipe 54, ipg/ewma 60.929/437.194 ms
+%%
+2013-11-02 19:22:58:690248374
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 92 received, 90% packet loss, time 25997ms
+rtt min/avg/max/mdev = 257.103/1516.550/14291.817/2217.218 ms, pipe 837, ipg/ewma 26.023/5662.460 ms
+%%
+2013-11-02 19:23:43:271445941
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 520 received, 48% packet loss, time 47243ms
+rtt min/avg/max/mdev = 27.173/980.709/6512.057/1172.063 ms, pipe 260, ipg/ewma 47.290/1449.214 ms
+%%
+2013-11-02 19:24:48:556683656
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 188 received, 81% packet loss, time 31894ms
+rtt min/avg/max/mdev = 21.569/1032.445/7345.879/1275.959 ms, pipe 431, ipg/ewma 31.926/4452.924 ms
+%%
+2013-11-02 19:25:40:160160015
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 607 received, 39% packet loss, time 44103ms
+rtt min/avg/max/mdev = 18.431/436.801/6688.492/502.203 ms, pipe 353, ipg/ewma 44.147/335.945 ms
+%%
+2013-11-02 19:26:42:657690095
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 343 received, 65% packet loss, time 36721ms
+rtt min/avg/max/mdev = 15.755/958.640/4686.198/877.512 ms, pipe 179, ipg/ewma 36.758/2562.300 ms
+%%
+2013-11-02 19:27:33:769061405
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 749 received, 25% packet loss, time 51514ms
+rtt min/avg/max/mdev = 16.147/409.850/3709.794/363.004 ms, pipe 137, ipg/ewma 51.565/324.379 ms
+%%
+2013-11-02 19:28:37:720197091
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 672 received, 32% packet loss, time 46790ms
+rtt min/avg/max/mdev = 23.041/2275.219/6051.977/1586.354 ms, pipe 131, ipg/ewma 46.837/2301.322 ms
+%%
+2013-11-02 19:29:41:632593459
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 591 received, 40% packet loss, time 36422ms
+rtt min/avg/max/mdev = 178.921/2749.300/9078.935/1189.755 ms, pipe 279, ipg/ewma 36.458/4041.577 ms
+%%
+2013-11-02 19:30:41:230554028
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 14 received, 98% packet loss, time 20324ms
+rtt min/avg/max/mdev = 1956.701/4877.931/11123.998/2593.402 ms, pipe 571, ipg/ewma 20.345/5258.145 ms
+%%
+2013-11-02 19:31:22:974920075
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 415 received, 58% packet loss, time 42613ms
+rtt min/avg/max/mdev = 50.602/743.747/5414.992/697.773 ms, pipe 189, ipg/ewma 42.656/2335.896 ms
+%%
+2013-11-02 19:32:18:745143855
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 526 received, 47% packet loss, time 44150ms
+rtt min/avg/max/mdev = 9.513/359.031/5465.841/509.791 ms, pipe 140, ipg/ewma 44.194/537.666 ms
+%%
+2013-11-02 19:33:18:844159226
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 828 received, 17% packet loss, time 40963ms
+rtt min/avg/max/mdev = 5.972/1233.191/3901.645/998.780 ms, pipe 90, ipg/ewma 41.004/2679.856 ms
+%%
+2013-11-02 19:34:12:628137548
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 456 received, 54% packet loss, time 40459ms
+rtt min/avg/max/mdev = 31.413/1375.017/5191.213/1131.054 ms, pipe 167, ipg/ewma 40.499/3245.159 ms
+%%
+2013-11-02 19:35:08:486948199
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 869 received, 13% packet loss, time 49572ms
+rtt min/avg/max/mdev = 7.491/1374.484/4202.646/901.876 ms, pipe 91, ipg/ewma 49.621/410.230 ms
+%%
+2013-11-02 19:36:11:482248370
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 924 received, 7% packet loss, time 36872ms
+rtt min/avg/max/mdev = 5.523/901.054/4212.446/933.586 ms, pipe 96, ipg/ewma 36.909/1856.649 ms
+%%
+2013-11-02 19:37:01:797732813
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 320 received, 68% packet loss, time 41285ms
+rtt min/avg/max/mdev = 11.352/1901.589/8132.732/1861.855 ms, pipe 471, ipg/ewma 41.326/296.411 ms
+%%
+2013-11-02 19:38:04:362948447
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 521 received, 47% packet loss, time 52676ms
+rtt min/avg/max/mdev = 16.251/1392.673/5504.165/1531.471 ms, pipe 140, ipg/ewma 52.729/2069.233 ms
+%%
+2013-11-02 19:39:13:064981668
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 225 received, 77% packet loss, time 38842ms
+rtt min/avg/max/mdev = 94.102/971.216/5146.747/899.004 ms, pipe 300, ipg/ewma 38.881/1396.280 ms
+%%
+2013-11-02 19:40:07:218204002
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 45 received, 95% packet loss, time 24332ms
+rtt min/avg/max/mdev = 61.929/1473.914/7610.363/2068.545 ms, pipe 435, ipg/ewma 24.357/1353.271 ms
+%%
+2013-11-02 19:40:51:789466335
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 250 received, 75% packet loss, time 37066ms
+rtt min/avg/max/mdev = 10.252/869.883/10776.170/1329.657 ms, pipe 685, ipg/ewma 37.104/3563.268 ms
+%%
+2013-11-02 19:41:55:424885736
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 553 received, 44% packet loss, time 24947ms
+rtt min/avg/max/mdev = 6.226/165.708/4580.408/452.464 ms, pipe 272, ipg/ewma 24.972/1273.448 ms
+%%
+2013-11-02 19:42:34:549479557
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 852 received, 14% packet loss, time 30579ms
+rtt min/avg/max/mdev = 5.980/118.397/2928.194/207.544 ms, pipe 36, ipg/ewma 30.609/815.138 ms
+%%
+2013-11-02 19:43:16:000967388
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 400 received, 60% packet loss, time 29211ms
+rtt min/avg/max/mdev = 6.275/366.704/8284.165/736.589 ms, pipe 592, ipg/ewma 29.240/341.108 ms
+%%
+2013-11-02 19:44:06:797024678
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 304 received, 69% packet loss, time 39598ms
+rtt min/avg/max/mdev = 9.519/554.872/9120.631/1042.069 ms, pipe 507, ipg/ewma 39.638/4425.721 ms
+%%
+2013-11-02 19:45:08:360734541
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 125 received, 87% packet loss, time 32774ms
+rtt min/avg/max/mdev = 57.263/888.277/6048.462/1200.016 ms, pipe 380, ipg/ewma 32.807/2330.817 ms
+%%
+2013-11-02 19:45:58:249562188
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 864 received, 13% packet loss, time 32481ms
+rtt min/avg/max/mdev = 7.297/170.204/3080.165/253.574 ms, pipe 124, ipg/ewma 32.514/725.704 ms
+%%
+2013-11-02 19:46:41:909033691
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 452 received, 54% packet loss, time 42038ms
+rtt min/avg/max/mdev = 6.238/720.750/6573.973/1039.157 ms, pipe 297, ipg/ewma 42.080/100.960 ms
+%%
+2013-11-02 19:47:42:112225248
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+1000 packets transmitted, 957 received, 4% packet loss, time 25154ms
+rtt min/avg/max/mdev = 5.367/164.906/2377.862/342.920 ms, pipe 39, ipg/ewma 25.180/1961.591 ms
+%%
+2013-11-02 19:48:15:647006798
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+675 packets transmitted, 34 received, 94% packet loss, time 29079ms
+rtt min/avg/max/mdev = 416.085/2309.359/5463.389/1531.269 ms, pipe 237, ipg/ewma 43.145/2568.637 ms
+%%
+2013-11-02 19:48:49:755953685
+PING 10.42.0.1 (10.42.0.1) 1000(1028) bytes of data.
+
+--- 10.42.0.1 ping statistics ---
+581 packets transmitted, 296 received, 49% packet loss, time 19634ms
+rtt min/avg/max/mdev = 442.556/2155.813/4613.726/747.135 ms, pipe 193, ipg/ewma 33.853/632.959 ms

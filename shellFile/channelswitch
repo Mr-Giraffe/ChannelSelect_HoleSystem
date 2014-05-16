@@ -1,0 +1,25 @@
+#!/usr/bin/expect -f
+
+set c1 [lindex $argv 0]
+set c2 [lindex $argv 1]
+set c3 [lindex $argv 2]
+
+#2
+spawn ssh -l root 192.168.16.150
+expect "*#*"
+send "./changeChannel.sh $c1\r"
+send "exit\r"
+
+#5
+spawn ssh -l root 192.168.16.161
+expect "*#*"
+send "./changeChannel.sh $c2\r"
+send "exit\r"
+
+#6
+spawn ssh -p 10086 -l root 202.120.37.131
+expect "*password:*"
+send "root\r"
+expect "*#*"
+send "./changeChannel.sh $c3\r"
+send "exit\r"
